@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 6978,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-log-change-request-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestLogChangeRequest_Workflow.ps1",
+    "DownloadCount": 701,
+    "Id": "Hornbill-Log-Change-8c0a32eb",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 525,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to log a new Change Request within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Log Change Request - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-log-change-request-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
